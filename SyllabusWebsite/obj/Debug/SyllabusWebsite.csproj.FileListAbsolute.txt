@@ -29,3 +29,5 @@ C:\TrainingWebsite\SyllabusWebsite\SyllabusWebsite\bin\System.Web.Http.xml
 C:\TrainingWebsite\SyllabusWebsite\SyllabusWebsite\bin\System.Web.Http.WebHost.xml
 C:\TrainingWebsite\SyllabusWebsite\SyllabusWebsite\obj\Debug\SyllabusWebsite.dll
 C:\TrainingWebsite\SyllabusWebsite\SyllabusWebsite\obj\Debug\SyllabusWebsite.pdb
+C:\TrainingWebsite\SyllabusWebsite\SyllabusWebsite\obj\Debug\SyllabusWebsite.Migrations.Initial.resources
+C:\TrainingWebsite\SyllabusWebsite\SyllabusWebsite\obj\Debug\SyllabusWebsite.csproj.GenerateResource.Cache

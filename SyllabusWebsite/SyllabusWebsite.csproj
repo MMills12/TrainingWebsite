@@ -98,6 +98,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201805042034559_Initial.cs" />
+    <Compile Include="Migrations\201805042034559_Initial.Designer.cs">
+      <DependentUpon>201805042034559_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Schedule.cs" />
     <Compile Include="Models\SyllabusWebsiteContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -113,6 +118,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201805042034559_Initial.resx">
+      <DependentUpon>201805042034559_Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
